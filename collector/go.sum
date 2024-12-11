@@ -10,6 +10,8 @@ github.com/antchfx/xmlquery v1.4.2 h1:MZKd9+wblwxfQ1zd1AdrTsqVaMjMCwow3IqkCSe00K
 github.com/antchfx/xmlquery v1.4.2/go.mod h1:QXhvf5ldTuGqhd1SHNvvtlhhdQLks4dD0awIVhXIDTA=
 github.com/antchfx/xpath v1.3.2 h1:LNjzlsSjinu3bQpw9hWMY9ocB80oLOWuQqFvO6xt51U=
 github.com/antchfx/xpath v1.3.2/go.mod h1:i54GszH55fYfBmoZXapTHN8T8tkcHfRgLyVwwqzXNcs=
+github.com/aws/aws-sdk-go v1.55.5 h1:KKUZBfBoyqy5d3swXyiC7Q76ic40rYcbqH7qjh59kzU=
+github.com/aws/aws-sdk-go v1.55.5/go.mod h1:eRwEWoyTWFMVYVQzKMNHWP5/RV4xIUGMQfXQHfHkpNU=
 github.com/aws/aws-sdk-go-v2 v1.32.3 h1:T0dRlFBKcdaUPGNtkBSwHZxrtis8CQU17UpNBZYd0wk=
 github.com/aws/aws-sdk-go-v2 v1.32.3/go.mod h1:2SK5n0a2karNTv5tbP1SjsX0uhttou00v/HpXKM1ZUo=
 github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.6 h1:pT3hpW0cOHRJx8Y0DfJUEQuqPild8jRGmSFmBgvydr0=
@@ -117,6 +119,9 @@ github.com/iancoleman/strcase v0.3.0 h1:nTXanmYxhfFAMjZL34Ov6gkzEsSJZ5DbhxWjvSAS
 github.com/iancoleman/strcase v0.3.0/go.mod h1:iwCmte+B7n89clKwxIoIXy/HfoL7AsD47ZCWhYzw7ho=
 github.com/inconshreveable/mousetrap v1.1.0 h1:wN+x4NVGpMsO7ErUn/mUI3vEoE6Jt13X2s0bqwp9tc8=
 github.com/inconshreveable/mousetrap v1.1.0/go.mod h1:vpF70FUmC8bwa3OWnCshd2FqLfsEA9PFc4w1p2J65bw=
+github.com/jmespath/go-jmespath v0.4.0 h1:BEgLn5cpjn8UN1mAw4NjwDrS35OdebyEtFe+9YPoQUg=
+github.com/jmespath/go-jmespath v0.4.0/go.mod h1:T8mJZnbsbmF+m6zOOFylbeCJqk5+pHWvzYPziyZiYoo=
+github.com/jmespath/go-jmespath/internal/testify v1.5.1/go.mod h1:L3OGu8Wl2/fWfCI6z80xFu9LTZmf1ZRjMHUOPmWr69U=
 github.com/jonboulle/clockwork v0.4.0 h1:p4Cf1aMWXnXAUh8lVfewRBx1zaTSYKrKMF2g3ST4RZ4=
 github.com/jonboulle/clockwork v0.4.0/go.mod h1:xgRqUGwRcjKCO1vbZUEtSLrqKoPSsUpK7fnezOII0kc=
 github.com/json-iterator/go v1.1.12 h1:PV8peI4a0ysnczrg+LtxykD8LfKY9ML6u2jnxaEnrnM=
@@ -162,6 +167,8 @@ github.com/open-telemetry/opentelemetry-collector-contrib/confmap/provider/secre
 github.com/open-telemetry/opentelemetry-collector-contrib/confmap/provider/secretsmanagerprovider v0.113.0/go.mod h1:GDQMlOtebOJVOkzes/DkmaxSqF17chj7wTpieaNGYds=
 github.com/open-telemetry/opentelemetry-collector-contrib/connector/spanmetricsconnector v0.113.0 h1:f3PXc+bgwGtJIlWwtOXDYYNBKOyabhkLl6Q3j/Rc1ow=
 github.com/open-telemetry/opentelemetry-collector-contrib/connector/spanmetricsconnector v0.113.0/go.mod h1:Ix1L1Godr9TS2DvHWSz/+0RBPa/D34azSvk/xU3dlGs=
+github.com/open-telemetry/opentelemetry-collector-contrib/exporter/awss3exporter v0.113.0 h1:IpCE7Iuwi0WFmfp6ZbwBDgMU4LrjEvS1CFOlUcJC1mk=
+github.com/open-telemetry/opentelemetry-collector-contrib/exporter/awss3exporter v0.113.0/go.mod h1:HW5sj/lQwX2q7Bkg9YUOAy+tibimHPIBTW0eLkTw6Oc=
 github.com/open-telemetry/opentelemetry-collector-contrib/exporter/prometheusremotewriteexporter v0.113.0 h1:sYEmpMeBGMSoy8j1GSEkBO5GM578Qtq3QtmVcsYn51s=
 github.com/open-telemetry/opentelemetry-collector-contrib/exporter/prometheusremotewriteexporter v0.113.0/go.mod h1:ULlXfiJdXw0ZzUGXLToQvGb1gQuIGC2BjtfyTnw3QtE=
 github.com/open-telemetry/opentelemetry-collector-contrib/extension/basicauthextension v0.113.0 h1:iXIWZhTjYEjKenWgT/cKMKEjx5ixVym2grn1xo9TcuE=
@@ -200,6 +207,8 @@ github.com/open-telemetry/opentelemetry-collector-contrib/processor/resourceproc
 github.com/open-telemetry/opentelemetry-collector-contrib/processor/resourceprocessor v0.113.0/go.mod h1:Q9shex5tQOoK4FeVx0NvYkwu18hCPFlRnwqqQzLfbpo=
 github.com/open-telemetry/opentelemetry-collector-contrib/processor/spanprocessor v0.113.0 h1:fvasZ3NNW+O5pVnDTF4+WuscMLQQRbUROhK7McVjRD8=
 github.com/open-telemetry/opentelemetry-collector-contrib/processor/spanprocessor v0.113.0/go.mod h1:AESjWVG6+DrQKX1xFnChVKlNiSHi8gwX4k7kAQJfnSo=
+github.com/open-telemetry/opentelemetry-collector-contrib/processor/transformprocessor v0.113.0 h1:c4vPI/PrRPnueoaKJKzBztsASIn5yZ7BT7uc4PHR39E=
+github.com/open-telemetry/opentelemetry-collector-contrib/processor/transformprocessor v0.113.0/go.mod h1:MR9VrhTtPazVAEWR/RPQln1i0Cmrc/6e2+zRpI/gwhM=
 github.com/pierrec/lz4/v4 v4.1.21 h1:yOVMLb6qSIDP67pl/5F7RepeKYu/VmTyEXvuMI5d9mQ=
 github.com/pierrec/lz4/v4 v4.1.21/go.mod h1:gZWDp/Ze/IJXGXf23ltt2EXimqmTUXEy0GFuRQyBid4=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
@@ -501,6 +510,7 @@ gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8
 gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c h1:Hei/4ADfdWqJk1ZMxUNpqntNwaWcugrBjAiHlqqRiVk=
 gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c/go.mod h1:JHkPIbrfpd72SG/EVd6muEfDQjcINNoR0C8j2r3qZ4Q=
 gopkg.in/yaml.v2 v2.2.1/go.mod h1:hI93XBmqTisBFMUTm0b8Fm+jr3Dg1NNxqwp+5A1VGuI=
+gopkg.in/yaml.v2 v2.2.8/go.mod h1:hI93XBmqTisBFMUTm0b8Fm+jr3Dg1NNxqwp+5A1VGuI=
 gopkg.in/yaml.v2 v2.4.0 h1:D8xgwECY7CYvx+Y2n4sBz93Jn9JRvxdiyyo8CTfuKaY=
 gopkg.in/yaml.v2 v2.4.0/go.mod h1:RDklbk79AGWmwhnvt/jBztapEOGDOx6ZbXqjP6csGnQ=
 gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
